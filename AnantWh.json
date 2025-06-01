@@ -1,7 +1,7 @@
 {
   "serverstatus": "true",
   "noticemode": "true",
-  "dataclearmode": "true",
+  "dataclearmode": "false",
   "servermeassage": "Crash fix kar diya gaya hai. No Smoke/Fog temporarily hata diya gaya hai for stability.",
   "opentime": "Mod is now safe to use 🙂",
   "libs": "https://github.com/anant095/HackingAndroid.site/raw/refs/heads/main/libAnantWh.so",
