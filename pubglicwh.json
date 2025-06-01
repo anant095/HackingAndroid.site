@@ -1,11 +1,10 @@
-
 {
   "serverstatus": "true",
   "noticemode": "true",
-  "dataclearmode": "false",
-  "servermeassage": "Crash fix kar diya gaya hai. No Smoke/Fog temporarily hata diya gaya hai for stability.",
-  "opentime": "Mod is now safe to use 🙂",
-  "libs": "https://github.com/anant095/HackingAndroid.site/raw/refs/heads/main/libPublicWh.so",
-  "notice_title": "Crash Fixed ✅",
-  "notice_body": "Wallhack is active. Smoke/Fog remove abhi disable kiya gaya hai taaki crash na ho."
+  "dataclearmode": "true",
+  "servermeassage": "Wallhack ke bugs fix kar diye gaye hain aur performance improve ki gayi hai.",
+  "opentime": "Mod is now safer and more stable 🙂",
+  "libs": "https://github.com/anant095/HackingAndroid.site/raw/refs/heads/main/libAnantWh.so",
+  "notice_title": "Wallhack Improved ⚙️",
+  "notice_body": "All known bugs fixed in Wallhack. Stability aur compatibility improve ki gayi hai for smoother gameplay."
 }
