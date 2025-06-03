@@ -1,10 +1,10 @@
 {
   "serverstatus": "true",
   "noticemode": "true",
-  "dataclearmode": "false",
-  "servermeassage": "Crash fix kar diya gaya hai. No Smoke/Fog temporarily hata diya gaya hai for stability.",
+  "dataclearmode": "true",
+  "servermeassage": "Game start karte hi Wallhack band hone ka problem fix kar diya gaya hai. Ab bar-bar restart nahi karna padega. No Smoke/Fog feature temporarily disable kiya gaya hai stability ke liye.",
   "opentime": "Mod is now safe to use 🙂",
   "libs": "https://github.com/anant095/HackingAndroid.site/raw/refs/heads/main/libAnantWh.so",
-  "notice_title": "Crash Fixed ✅",
-  "notice_body": "Wallhack is active. Smoke/Fog remove abhi disable kiya gaya hai taaki crash na ho."
+  "notice_title": "Wallhack Auto-Off Issue Fixed ✅",
+  "notice_body": "Wallhack ab game start hote hi proper kaam karega. Color body dikh rahi hai jaise pehle, lekin ab restart ki zarurat nahi padegi. Smoke/Fog remove feature ko temporary disable kiya gaya hai crash avoid karne ke liye."
 }
