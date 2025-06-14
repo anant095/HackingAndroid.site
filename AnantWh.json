@@ -1,10 +1,11 @@
 {
   "serverstatus": "true",
-  "noticemode": "true",
-  "dataclearmode": "true",
-  "servermeassage": "Game start karte hi Wallhack band hone ka problem fix kar diya gaya hai. Ab bar-bar restart nahi karna padega. Auto Logout ka issue bhi hata diya gaya hai. No Smoke/Fog feature temporarily disable kiya gaya hai stability ke liye.",
-  "opentime": "Mod is now safe to use 🙂",
+  "noticemode": "false",
+  "dataclearmode": "false",
+  "servermeassage": "Under Maintenance",
+  "opentime": "Tomorrow 11AM",
   "libs": "https://github.com/anant095/HackingAndroid.site/raw/refs/heads/main/libAnantWh.so",
-  "notice_title": "Wallhack & Auto Logout Fixed ✅",
-  "notice_body": "Wallhack ab game start hote hi proper kaam karega. Auto logout ka issue hata diya gaya hai. Color body dikh rahi hai jaise pehle, lekin ab restart ki zarurat nahi padegi. Smoke/Fog remove feature ko temporary disable kiya gaya hai crash avoid karne ke liye."
+  "notice_title": "Update Notice",
+  "notice_body": "New version available",
+  "floatingtext": "🔥 HackingAndroidYTT - WallHack Loaded 🔥"
 }
